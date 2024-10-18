@@ -1,11 +1,4 @@
 /*
-* Author: Võ Tiến
-* Date: 20.02.2023
-* FB: https://www.facebook.com/profile.php?id=100056605580171
-* FB nhóm: https://www.facebook.com/groups/211867931379013
-* khóa học KTLT1: https://www.facebook.com/photo/?fbid=845258184037693&set=gm.404500422115762&idorvanity=211867931379013
-*/
-/*
 * cách dùng hàm main.cpp
 * b1: mở folder BTL1 lên vscode
 * b2: mở Terminal trên thanh công cụ mở new Terminal
